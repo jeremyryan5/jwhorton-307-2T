@@ -5,7 +5,7 @@ public class Multiply2 {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(multiply2(2,600));
+		System.out.println(multiply2(5,4));
 	}
 
 }
